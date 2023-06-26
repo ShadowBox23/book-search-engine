@@ -14,8 +14,7 @@
   For more information about the license, please see the https://opensource.org/licenses/MIT for more information.
 
   ## Screenshot
-
-  C:\Users\swift\bootcamp\OSU-VIRT-FSF-PT-01-2023-U-LOLC\21-MERN\02-Challenge\Assets\21-mern-homework-demo-01.gif
+  None at the present time
 
   ## Contributing
   No one may contribute to this repo for the time being.
