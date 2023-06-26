@@ -2,9 +2,8 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
   Welcome to my Book Search Engine application! It's an enhanced version of the existing Google Books API search engine. I've revamped it by migrating from a RESTful API to a GraphQL API powered by Apollo Server. The application is built using the MERN stack, combining React for the frontend and MongoDB for the database. With this upgraded app, you can easily search for books, curate your personalized reading list, and discover exciting new titles. Enjoy the seamless experience of exploring and finding your next great read!
-  * [Installation](#installation)
-  * [Usage](#usage)
   * [License](#license)
+  * [Screenshot](#Screen) 
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -13,6 +12,10 @@
   This application has the MIT License.
 
   For more information about the license, please see the https://opensource.org/licenses/MIT for more information.
+
+  ## Screenshot
+
+![Google Book Search Engine](./client/src/assets/Google_Book_Search_Demo.gif)
 
   ## Contributing
   No one may contribute to this repo for the time being.
